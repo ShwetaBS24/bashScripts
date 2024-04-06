@@ -1,3 +1,3 @@
 #!/bin/bash
-searchfile=`find . -type f -iname “*.sh”`
+searchfile=`find . -type f -iname “*.txt”`
 echo "$searchfile"
