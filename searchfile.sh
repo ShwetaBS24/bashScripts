@@ -1,3 +1,3 @@
 #!/bin/bash
-searchfile=$(ls | grep -i "$sh)
+searchfile=`f`ind . -type f -iname “*.sh”
 echo "$searchfile"
