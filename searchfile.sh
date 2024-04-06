@@ -1,3 +1,3 @@
 #!/bin/bash
-searchfile=`f`ind . -type f -iname “*.sh”
+searchfile=`find . -type f -iname “*.sh”`
 echo "$searchfile"
